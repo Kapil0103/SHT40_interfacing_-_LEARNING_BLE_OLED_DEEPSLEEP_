@@ -141,5 +141,6 @@ The sketch currently contains `while (!Serial)`, which can wait for the USB seri
 ## Repository notes
 
 This README describes the source snapshot in this project folder. Update the hardware pin table, library versions, and behaviour notes whenever the wiring or firmware changes.
-#   S H T 4 0 _ i n t e r f a c i n g _ - _ L E A R N I N G _ B L E _ O L E D _ D E E P S L E E P _  
+#   S H T 4 0 _ i n t e r f a c i n g _ - _ L E A R N I N G _ B L E _ O L E D _ D E E P S L E E P _ 
+ 
  
